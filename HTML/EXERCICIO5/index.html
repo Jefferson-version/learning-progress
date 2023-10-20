@@ -8,16 +8,53 @@
   <body>
     <h1>Formulário de Inscrição </h1>
 
-    <form>
-      <label for="nome">Nome :</label>
-      <input type="text" id="nome" name="nome" required>
+    <form action="#" method="post">
+      <div>
+        <label for="nome">Nome :</label><br>
+        <input type="text" id="nome" name="nome" required>
+      </div>
       <br><br>
-      <label for="email">E-mail :</label>
-      <input type="email" id="email" name="email" required>
+      <div>
+        <label for="email">E-mail :</label><br>
+        <input type="email" id="email" name="email" required>
+      </div>
+
       <br><br>
-      <label for="whatsapp">whatsApp :</label>
-      <input type="number" id="whatsapp" name="whatsapp">
+      <div>
+        <label for="whatsapp">whatsApp :</label><br>
+        <input type="tel" id="whatsapp" name="whatsapp">
+      </div>
+
       <br><br>
+      <div>
+
+      </div>
+      <label>setor:</label>
+      <br><br>
+      <div>
+        <input type="radio" name="setor" id="Desenvolvimento"
+          value="Desenvolvimento" required>
+        <label for="Desenvolvimento">Desenvolvimento</label>
+        <input type="radio" name="setor" id="Analise" value="Analise" required>
+        <label for="Analise">Analise de Dados</label>
+        <input type="radio" name="setor" id="Infraestrutura"
+          value="Infraestrutura" required>
+        <label for="Infraestrutura">Infraestrutura</label>
+      </div>
+
+      <br><br>
+      <div>
+        <label for="observacoes">Observações:</label><br>
+        <textarea name="observacoes" id="observacoes" cols="30" rows="5"></textarea>
+      </div>
+      <div>
+        <label for="notificacao"></label>
+        <input type="checkbox" id="notificacao" value="notificacao"
+          name="notificacao">
+        <label for="notificacao">Desejo receber novidades e ofertas via email.</label>
+      </div>
+
+      <br>
       <button type="submit">Enviar</button>
     </form>
   </body>

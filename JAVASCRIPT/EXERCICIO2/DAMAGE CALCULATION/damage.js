@@ -30,3 +30,4 @@ alert(
     "\nPossui escudo: " +
     possuiEscudo
 );
+//REALIZAR CORREÇÃO POIS TODA VEZ QUE EXECUTO O ARQUIVO ELE RETORNA ZER0

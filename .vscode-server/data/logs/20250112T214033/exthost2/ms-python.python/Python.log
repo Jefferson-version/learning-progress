@@ -1,0 +1,56 @@
+2025-01-12 21:41:00.217 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-01-12 21:41:00.217 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-01-12 21:41:00.217 [info] Experiment 'pythonTestAdapter' is active
+2025-01-12 21:41:00.217 [warning] Dir "/home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/.pixi/envs" is not watchable (directory does not exist)
+2025-01-12 21:41:00.217 [info] Starting Environment refresh
+2025-01-12 21:41:00.217 [info] > hatch env show --json
+2025-01-12 21:41:00.217 [info] cwd: .
+2025-01-12 21:41:03.863 [info] Environments refresh finished (event): 5020 milliseconds
+2025-01-12 21:41:03.872 [info] Environments refresh paths discovered: 5029 milliseconds
+2025-01-12 21:41:03.874 [info] Environment refresh took 5033 milliseconds
+2025-01-12 21:41:03.880 [info] > pyenv which python
+2025-01-12 21:41:03.880 [info] cwd: .
+2025-01-12 21:41:04.001 [info] > python -c "import sys;print(sys.executable)"
+2025-01-12 21:41:04.083 [error] [Error: Command failed: python -c "import sys;print(sys.executable)"
+/bin/sh: 1: python: not found
+
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:530:35)
+	at maybeClose (node:internal/child_process:1104:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:518:28)
+	at Pipe.<anonymous> (node:net:343:12)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: 'python -c "import sys;print(sys.executable)"'
+}
+2025-01-12 21:41:04.206 [info] > pyenv which python
+2025-01-12 21:41:04.206 [info] cwd: .
+2025-01-12 21:41:05.525 [info] Starting Pylance language server.
+2025-01-12 21:43:31.767 [info] Starting Environment refresh
+2025-01-12 21:43:31.767 [info] Searching for interpreters in posix paths locator
+2025-01-12 21:43:31.775 [info] Searching for pyenv environments
+2025-01-12 21:43:31.775 [info] Searching for conda environments
+2025-01-12 21:43:31.777 [info] Searching for global virtual environments
+2025-01-12 21:43:31.777 [info] Searching for custom virtual environments
+2025-01-12 21:43:31.978 [info] > conda info --json
+2025-01-12 21:43:31.989 [info] pyenv is not installed
+2025-01-12 21:43:31.989 [info] Finished searching for pyenv environments: 221 milliseconds
+2025-01-12 21:43:31.992 [info] Finished searching for custom virtual envs: 219 milliseconds
+2025-01-12 21:43:31.999 [info] Finished searching for global virtual envs: 227 milliseconds
+2025-01-12 21:43:32.022 [info] Found: /bin/python3 --> /bin/python3.10
+2025-01-12 21:43:32.025 [info] Found: /bin/python3.10 --> /bin/python3.10
+2025-01-12 21:43:32.061 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2025-01-12 21:43:32.061 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2025-01-12 21:43:32.736 [info] Finished searching for interpreters in posix paths locator: 966 milliseconds
+2025-01-12 21:43:32.736 [info] > /bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/python_files/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/python_files/interpreterInfo.py
+2025-01-12 21:43:32.837 [info] > /usr/bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/python_files/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/python_files/interpreterInfo.py
+2025-01-12 21:43:32.837 [info] Environments refresh paths discovered (event): 1079 milliseconds
+2025-01-12 21:43:32.837 [info] Environments refresh paths discovered: 1080 milliseconds
+2025-01-12 21:43:33.003 [info] Environments refresh finished (event): 1246 milliseconds
+2025-01-12 21:43:33.025 [info] Environment refresh took 1269 milliseconds
+2025-01-12 21:43:39.980 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma
+2025-01-12 21:43:39.982 [info] Python interpreter path: /bin/python3

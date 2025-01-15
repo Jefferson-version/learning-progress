@@ -1,0 +1,64 @@
+2025-01-12 21:19:18.734 [info] Experiment 'pythonaacf' is active
+2025-01-12 21:19:18.734 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-01-12 21:19:18.734 [info] Experiment 'pythonREPLSmartSend' is active
+2025-01-12 21:19:18.734 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-01-12 21:19:18.734 [info] Experiment 'pythonTestAdapter' is active
+2025-01-12 21:19:18.734 [warning] Dir "/home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/.pixi/envs" is not watchable (directory does not exist)
+2025-01-12 21:19:18.734 [info] Starting Environment refresh
+2025-01-12 21:19:18.734 [info] Starting Environment refresh
+2025-01-12 21:19:18.734 [info] > hatch env show --json
+2025-01-12 21:19:18.734 [info] cwd: .
+2025-01-12 21:19:18.895 [info] Environments refresh finished (event): 782 milliseconds
+2025-01-12 21:19:18.895 [info] Environments refresh finished (event): 781 milliseconds
+2025-01-12 21:19:18.896 [info] Environments refresh paths discovered: 782 milliseconds
+2025-01-12 21:19:18.896 [info] Environments refresh paths discovered: 782 milliseconds
+2025-01-12 21:19:18.898 [info] Environment refresh took 786 milliseconds
+2025-01-12 21:19:18.898 [info] Environment refresh took 784 milliseconds
+2025-01-12 21:19:18.904 [info] > pyenv which python
+2025-01-12 21:19:18.904 [info] cwd: .
+2025-01-12 21:19:18.966 [info] > python -c "import sys;print(sys.executable)"
+2025-01-12 21:19:19.030 [error] [Error: Command failed: python -c "import sys;print(sys.executable)"
+/bin/sh: 1: python: not found
+
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:530:35)
+	at maybeClose (node:internal/child_process:1104:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:518:28)
+	at Pipe.<anonymous> (node:net:343:12)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: 'python -c "import sys;print(sys.executable)"'
+}
+2025-01-12 21:19:19.205 [info] > pyenv which python
+2025-01-12 21:19:19.205 [info] cwd: .
+2025-01-12 21:19:19.805 [info] Starting Pylance language server.
+2025-01-12 21:19:19.977 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2025-01-12 21:19:21.121 [info] Shell integration status changed, can confirm it's working.
+2025-01-12 21:21:23.410 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/1-print.py
+2025-01-12 21:21:24.266 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/1-print.py
+2025-01-12 21:21:24.671 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/1-print.py
+2025-01-12 21:21:25.312 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/1-print.py
+2025-01-12 21:21:26.981 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/1-print.py
+2025-01-12 21:21:28.393 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/1-print.py
+2025-01-12 21:21:30.279 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/1-print.py
+2025-01-12 21:21:31.803 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/1-print.py
+2025-01-12 21:21:33.703 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/1-print.py
+2025-01-12 21:21:35.027 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/1-print.py
+2025-01-12 21:21:36.854 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/1-print.py
+2025-01-12 21:21:37.395 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/1-print.py
+2025-01-12 21:21:38.378 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/1-print.py
+2025-01-12 21:21:39.265 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/1-print.py
+2025-01-12 21:21:40.310 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/1-print.py
+2025-01-12 21:21:40.640 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/1-print.py
+2025-01-12 21:21:41.386 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/1-print.py
+2025-01-12 21:21:42.180 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/1-print.py
+2025-01-12 21:21:43.418 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/1-print.py
+2025-01-12 21:21:43.694 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/1-print.py
+2025-01-12 21:21:44.398 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/1-print.py
+2025-01-12 21:21:44.780 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/1-print.py
+2025-01-12 21:21:48.642 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/1-print.py
+2025-01-12 21:21:50.099 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/1-print.py

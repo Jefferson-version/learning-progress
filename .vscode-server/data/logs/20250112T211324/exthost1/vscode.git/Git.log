@@ -1,0 +1,47 @@
+2025-01-12 21:13:35.822 [info] [main] Log level: Info
+2025-01-12 21:13:35.822 [info] [main] Validating found git in: "git"
+2025-01-12 21:13:35.822 [info] [main] Using git "2.34.1" from "git"
+2025-01-12 21:13:35.822 [info] [Model][doInitialScan] Initial repository scan started
+2025-01-12 21:13:35.822 [info] > git rev-parse --show-toplevel [1041ms]
+2025-01-12 21:13:35.822 [info] > git rev-parse --git-dir --git-common-dir [952ms]
+2025-01-12 21:13:35.822 [info] [Model][openRepository] Opened repository: /home/devviking/Dev-2025/app-previsao-tempo
+2025-01-12 21:13:35.822 [info] > git rev-parse --show-toplevel [40ms]
+2025-01-12 21:13:35.822 [info] > git config --get commit.template [43ms]
+2025-01-12 21:13:35.865 [info] > git rev-parse --show-toplevel [37ms]
+2025-01-12 21:13:35.870 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-01-12 21:13:35.884 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [42ms]
+2025-01-12 21:13:36.326 [info] > git status -z -uall [298ms]
+2025-01-12 21:13:36.326 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [292ms]
+2025-01-12 21:13:36.371 [info] > git check-ignore -v -z --stdin [26ms]
+2025-01-12 21:13:36.374 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [37ms]
+2025-01-12 21:13:36.384 [info] > git config --local branch.main.vscode-merge-base [3ms]
+2025-01-12 21:13:36.384 [warning] [Git][config] git config failed: Failed to execute git
+2025-01-12 21:13:36.390 [info] > git config --get commit.template [26ms]
+2025-01-12 21:13:36.510 [info] > git show --textconv :src/js/index.js [110ms]
+2025-01-12 21:13:36.510 [info] > git ls-files --stage -- /home/devviking/Dev-2025/app-previsao-tempo/src/js/index.js [106ms]
+2025-01-12 21:13:36.514 [info] > git reflog main --grep-reflog=branch: Created from *. [124ms]
+2025-01-12 21:13:36.787 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [268ms]
+2025-01-12 21:13:36.787 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-01-12 21:13:36.787 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2025-01-12 21:13:36.793 [info] > git cat-file -s e083926e132637fca4d9c5769a38fef0c178955e [280ms]
+2025-01-12 21:13:36.794 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [379ms]
+2025-01-12 21:13:36.853 [info] > git merge-base refs/heads/main refs/remotes/origin/main [61ms]
+2025-01-12 21:13:36.868 [info] > git diff --name-status -z --diff-filter=ADMR bb28fd9a08cecdb83a373e41a15196805b574e70...refs/remotes/origin/main [7ms]
+2025-01-12 21:13:36.870 [info] > git blame --root --incremental bb28fd9a08cecdb83a373e41a15196805b574e70 -- /home/devviking/Dev-2025/app-previsao-tempo/src/js/index.js [41ms]
+2025-01-12 21:13:37.008 [info] > git status -z -uall [35ms]
+2025-01-12 21:13:37.009 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [31ms]
+2025-01-12 21:17:24.313 [info] > git fetch [1065ms]
+2025-01-12 21:17:24.313 [info] Missing or invalid credentials.
+Skip silent fetch commands
+Missing or invalid credentials.
+Skip silent fetch commands
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/Jefferson-version/app-previsao-tempo.git/'
+2025-01-12 21:17:24.342 [info] > git config --get commit.template [15ms]
+2025-01-12 21:17:24.344 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2025-01-12 21:17:24.370 [info] > git status -z -uall [14ms]
+2025-01-12 21:17:24.374 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2025-01-12 21:17:24.475 [info] > git ls-files --stage -- /home/devviking/Dev-2025/app-previsao-tempo/src/js/index.js [4ms]
+2025-01-12 21:17:24.488 [info] > git cat-file -s e083926e132637fca4d9c5769a38fef0c178955e [4ms]
+2025-01-12 21:17:24.509 [info] > git show --textconv :src/js/index.js [4ms]
+2025-01-12 21:17:26.432 [info] > git check-ignore -v -z --stdin [5ms]

@@ -1,0 +1,47 @@
+2024-01-18 00:18:50.878 [info] 
+
+
+
+
+2024-01-18 00:18:50.895 [info] Extension host agent started.
+2024-01-18 00:18:51.222 [info] Deleted uninstalled extension from disk bradlc.vscode-tailwindcss /home/devviking/.vscode-server/extensions/bradlc.vscode-tailwindcss-0.10.0
+2024-01-18 00:18:51.223 [info] Deleted uninstalled extension from disk eamodio.gitlens /home/devviking/.vscode-server/extensions/eamodio.gitlens-14.3.0
+2024-01-18 00:18:51.223 [info] Deleted uninstalled extension from disk glenn2223.live-sass /home/devviking/.vscode-server/extensions/glenn2223.live-sass-6.1.1
+2024-01-18 00:18:51.224 [info] Deleted uninstalled extension from disk mohd-akram.vscode-html-format /home/devviking/.vscode-server/extensions/mohd-akram.vscode-html-format-0.1.2
+2024-01-18 00:18:51.224 [info] Deleted uninstalled extension from disk ms-vsliveshare.vsliveshare /home/devviking/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.5883
+2024-01-18 00:18:51.225 [info] Deleted uninstalled extension from disk pkief.material-icon-theme /home/devviking/.vscode-server/extensions/pkief.material-icon-theme-4.30.1
+2024-01-18 00:18:51.225 [info] Deleted uninstalled extension from disk prisma.prisma /home/devviking/.vscode-server/extensions/prisma.prisma-5.3.1
+2024-01-18 00:18:51.226 [info] Deleted uninstalled extension from disk vscode-icons-team.vscode-icons /home/devviking/.vscode-server/extensions/vscode-icons-team.vscode-icons-12.5.0
+2024-01-18 00:18:51.227 [info] Deleted uninstalled extension from disk wakatime.vscode-wakatime /home/devviking/.vscode-server/extensions/wakatime.vscode-wakatime-24.2.2
+2024-01-18 00:18:51.365 [info] [127.0.0.1][35dfce66][ManagementConnection] New connection established.
+2024-01-18 00:18:51.714 [info] [127.0.0.1][7a5f07e3][ExtensionHostConnection] New connection established.
+2024-01-18 00:18:52.470 [info] [127.0.0.1][7a5f07e3][ExtensionHostConnection] <537> Launched Extension Host Process.
+2024-01-18 00:18:57.780 [info] Getting Manifest... eamodio.gitlens
+2024-01-18 00:18:57.780 [info] Getting Manifest... ms-python.python
+2024-01-18 00:18:57.780 [info] Getting Manifest... ms-python.vscode-pylance
+2024-01-18 00:18:57.780 [info] Getting Manifest... prisma.prisma
+2024-01-18 00:18:57.780 [info] Getting Manifest... vscode-icons-team.vscode-icons
+2024-01-18 00:18:58.066 [info] Installing extension: ms-python.python
+2024-01-18 00:18:58.068 [info] Installing extension: ms-python.vscode-pylance
+2024-01-18 00:18:58.126 [info] Installing extension: prisma.prisma
+2024-01-18 00:18:58.322 [info] Installing extension: eamodio.gitlens
+2024-01-18 00:18:59.133 [info] Installing extension: vscode-icons-team.vscode-icons
+2024-01-18 00:19:00.531 [info] Getting Manifest... ms-python.python
+2024-01-18 00:19:00.843 [info] Waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2024-01-18 00:19:08.827 [warning] Extension signature verification failed with error 'ENOENT': vscode-icons-team.vscode-icons
+2024-01-18 00:19:10.198 [info] Extracted extension to file:///home/devviking/.vscode-server/extensions/vscode-icons-team.vscode-icons-12.7.0: vscode-icons-team.vscode-icons
+2024-01-18 00:19:10.203 [info] Renamed to /home/devviking/.vscode-server/extensions/vscode-icons-team.vscode-icons-12.7.0
+2024-01-18 00:19:10.205 [info] Extracting extension completed. vscode-icons-team.vscode-icons
+2024-01-18 00:19:10.212 [info] Extension installed successfully: vscode-icons-team.vscode-icons
+2024-01-18 00:19:10.216 [info] Marked extension as uninstalled vscode-icons-team.vscode-icons-12.6.0
+2024-01-18 00:19:10.655 [warning] Extension signature verification failed with error 'ENOENT': eamodio.gitlens
+2024-01-18 00:19:11.013 [info] [127.0.0.1][35dfce66][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-01-18 00:19:11.114 [info] [127.0.0.1][7a5f07e3][ExtensionHostConnection] <537> Extension Host Process exited with code: 0, signal: null.
+2024-01-18 00:19:11.493 [info] Extracted extension to file:///home/devviking/.vscode-server/extensions/eamodio.gitlens-14.7.0: eamodio.gitlens
+2024-01-18 00:19:11.507 [info] Renamed to /home/devviking/.vscode-server/extensions/eamodio.gitlens-14.7.0
+2024-01-18 00:19:11.515 [info] Extracting extension completed. eamodio.gitlens
+2024-01-18 00:19:11.521 [info] Extension installed successfully: eamodio.gitlens
+2024-01-18 00:19:11.534 [info] Marked extension as uninstalled eamodio.gitlens-14.6.1
+2024-01-18 00:19:11.929 [warning] Extension signature verification failed with error 'ENOENT': prisma.prisma
+2024-01-18 00:19:13.833 [warning] Extension signature verification failed with error 'ENOENT': ms-python.vscode-pylance
+2024-01-18 00:19:14.606 [warning] Extension signature verification failed with error 'ENOENT': ms-python.python

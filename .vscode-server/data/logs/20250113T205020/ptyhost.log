@@ -1,0 +1,2 @@
+2025-01-13 20:50:21.541 [info] Revived process, old id 4c7687ebfff2e1704da23d5e38de583a-5 -> new id 1
+2025-01-13 20:56:58.461 [warning] Shell integration cannot be enabled for executable "/usr/bin/tmux" and args undefined

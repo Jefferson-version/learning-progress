@@ -1,0 +1,302 @@
+2025-01-12 21:12:21.623 [info] Extension host with pid 853 started
+2025-01-12 21:12:21.662 [info] Lock '/home/devviking/.vscode-server/data/User/workspaceStorage/0681e739b8d6ac7831ffce0caca2d8a9/vscode.lock': Lock acquired.
+2025-01-12 21:12:21.919 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-01-12 21:12:21.922 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2025-01-12 21:12:21.923 [info] ExtensionService#_doActivateExtension clinyong.vscode-css-modules, startup: false, activationEvent: 'onLanguage:javascript'
+2025-01-12 21:12:21.923 [info] ExtensionService#_doActivateExtension Prisma.prisma, startup: false, activationEvent: 'onLanguage:javascript'
+2025-01-12 21:12:23.027 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-01-12 21:12:23.028 [info] ExtensionService#_doActivateExtension 2gua.rainbow-brackets, startup: true, activationEvent: '*'
+2025-01-12 21:12:23.028 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2025-01-12 21:12:23.029 [info] ExtensionService#_doActivateExtension WakaTime.vscode-wakatime, startup: true, activationEvent: '*'
+2025-01-12 21:12:23.555 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-01-12 21:12:23.555 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-01-12 21:12:26.711 [info] Eager extensions activated
+2025-01-12 21:12:26.712 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-12 21:12:26.712 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-12 21:12:26.713 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2025-01-12 21:12:26.714 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2025-01-12 21:12:26.714 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2025-01-12 21:12:26.714 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-01-12 21:12:26.725 [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview, startup: false, activationEvent: 'onStartupFinished'
+2025-01-12 21:12:26.725 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2025-01-12 21:12:26.726 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-01-12 21:12:28.682 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: ritwickdey.LiveServer
+2025-01-12 21:13:19.518 [info] Extension host terminating: received terminate message from renderer
+2025-01-12 21:13:19.520 [info] Lock '/home/devviking/.vscode-server/data/User/workspaceStorage/0681e739b8d6ac7831ffce0caca2d8a9/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-01-12 21:13:19.737 [error] Canceled: Canceled
+	at new IT (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:153476)
+	at Dy.U (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:158086)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:155580)
+	at cw.g (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+	at cw.executeCommand (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+	at r.registerCommand.description (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+	at cw.h (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+	at cw.g (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+	at cw.executeCommand (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+	at Object.executeCommand (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+	at Sh.L [as value] (/home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/extensions/git/dist/main.js:2:975601)
+	at P.B (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+	at P.C (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+	at P.fire (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+	at Object.p [as dispose] (/home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/extensions/git/dist/main.js:2:997158)
+	at /home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/extensions/git/dist/main.js:2:1003280
+	at Array.forEach (<anonymous>)
+	at b.dispose (/home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/extensions/git/dist/main.js:2:1003266)
+	at ev.<anonymous> (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:109:20047)
+	at ev.dispose (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+	at ev.<anonymous> (/home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/extensions/git/dist/main.js:2:978080)
+	at ev.dispose (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+	at ai (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+	at file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:119:14992
+	at file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+	at Object.dispose (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+	at zz.eb (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:119:11919)
+	at file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:119:9874
+	at Array.map (<anonymous>)
+	at zz.$ (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:119:9862)
+	at zz.terminate (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:119:10105)
+	at Q3.terminate (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+	at Zi (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+	at Sh.value (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:175:13241)
+	at P.B (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+	at P.fire (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:964)
+	at Vn.fire (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:9457)
+	at Wm.A (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:12573)
+	at Sh.value (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:10993)
+	at P.B (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+	at P.fire (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:964)
+	at s6.acceptChunk (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:7940)
+	at Sh.value (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:7226)
+	at P.B (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+	at P.fire (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:964)
+	at vA.z (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:21944)
+	at vA.acceptFrame (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:21750)
+	at mA.n (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:20278)
+	at file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:17510
+	at Socket.t (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:15451)
+	at Socket.emit (node:events:518:28)
+	at addChunk (node:internal/streams/readable:561:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+	at Readable.push (node:internal/streams/readable:392:5)
+	at TCP.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2025-01-12 21:13:19.738 [error] Canceled: Canceled
+	at new IT (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:153476)
+	at Dy.U (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:158086)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:155580)
+	at cw.g (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+	at cw.executeCommand (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+	at r.registerCommand.description (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+	at cw.h (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+	at cw.g (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+	at cw.executeCommand (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+	at Object.executeCommand (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+	at set hasGitHubRepositories [as hasGitHubRepositories] (/home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/extensions/github/dist/extension.js:2:328633)
+	at /home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/extensions/github/dist/extension.js:2:329592
+	at Sh.value (/home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/extensions/git/dist/main.js:2:1088462)
+	at P.B (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+	at P.C (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+	at P.fire (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+	at Object.p [as dispose] (/home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/extensions/git/dist/main.js:2:997158)
+	at /home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/extensions/git/dist/main.js:2:1003280
+	at Array.forEach (<anonymous>)
+	at b.dispose (/home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/extensions/git/dist/main.js:2:1003266)
+	at ev.<anonymous> (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:109:20047)
+	at ev.dispose (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+	at ev.<anonymous> (/home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/extensions/git/dist/main.js:2:978080)
+	at ev.dispose (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+	at ai (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+	at file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:119:14992
+	at file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+	at Object.dispose (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+	at zz.eb (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:119:11919)
+	at file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:119:9874
+	at Array.map (<anonymous>)
+	at zz.$ (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:119:9862)
+	at zz.terminate (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:119:10105)
+	at Q3.terminate (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+	at Zi (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+	at Sh.value (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:175:13241)
+	at P.B (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+	at P.fire (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:964)
+	at Vn.fire (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:9457)
+	at Wm.A (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:12573)
+	at Sh.value (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:10993)
+	at P.B (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+	at P.fire (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:964)
+	at s6.acceptChunk (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:7940)
+	at Sh.value (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:7226)
+	at P.B (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+	at P.fire (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:964)
+	at vA.z (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:21944)
+	at vA.acceptFrame (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:21750)
+	at mA.n (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:20278)
+	at file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:17510
+	at Socket.t (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:15451)
+	at Socket.emit (node:events:518:28)
+	at addChunk (node:internal/streams/readable:561:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+	at Readable.push (node:internal/streams/readable:392:5)
+	at TCP.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2025-01-12 21:13:19.739 [error] Canceled: Canceled
+	at new IT (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:153476)
+	at Dy.U (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:158086)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:155580)
+	at cw.g (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+	at cw.executeCommand (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+	at r.registerCommand.description (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+	at cw.h (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+	at cw.g (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+	at cw.executeCommand (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+	at Object.executeCommand (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+	at f (/home/devviking/.vscode-server/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1485:14138)
+	at c (/home/devviking/.vscode-server/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1485:18699)
+	at ActionRunners._updateContextKeys (/home/devviking/.vscode-server/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1104:69975)
+	at s (/home/devviking/.vscode-server/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1104:68419)
+	at RegisteredActionRunner.unregister (/home/devviking/.vscode-server/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1104:68562)
+	at RegisteredActionRunner.dispose (/home/devviking/.vscode-server/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1104:67229)
+	at ActionRunners.dispose (/home/devviking/.vscode-server/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1104:68002)
+	at /home/devviking/.vscode-server/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1429:14976
+	at Array.forEach (<anonymous>)
+	at Object.dispose (/home/devviking/.vscode-server/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1429:14958)
+	at ai (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+	at file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:119:14992
+	at file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+	at Object.dispose (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+	at zz.eb (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:119:11919)
+	at file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:119:9874
+	at Array.map (<anonymous>)
+	at zz.$ (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:119:9862)
+	at zz.terminate (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:119:10105)
+	at Q3.terminate (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+	at Zi (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+	at Sh.value (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:175:13241)
+	at P.B (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+	at P.fire (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:964)
+	at Vn.fire (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:9457)
+	at Wm.A (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:12573)
+	at Sh.value (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:10993)
+	at P.B (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+	at P.fire (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:964)
+	at s6.acceptChunk (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:7940)
+	at Sh.value (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:7226)
+	at P.B (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+	at P.fire (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:964)
+	at vA.z (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:21944)
+	at vA.acceptFrame (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:21750)
+	at mA.n (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:20278)
+	at file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:17510
+	at Socket.t (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:15451)
+	at Socket.emit (node:events:518:28)
+	at addChunk (node:internal/streams/readable:561:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+	at Readable.push (node:internal/streams/readable:392:5)
+	at TCP.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2025-01-12 21:13:19.739 [error] Canceled: Canceled
+	at new IT (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:153476)
+	at Dy.U (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:158086)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:155580)
+	at cw.g (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+	at cw.executeCommand (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+	at r.registerCommand.description (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+	at cw.h (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+	at cw.g (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+	at cw.executeCommand (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+	at Object.executeCommand (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+	at f (/home/devviking/.vscode-server/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1485:14138)
+	at c (/home/devviking/.vscode-server/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1485:18699)
+	at ActionRunners._updateContextKeys (/home/devviking/.vscode-server/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1104:69975)
+	at s (/home/devviking/.vscode-server/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1104:68419)
+	at RegisteredActionRunner.unregister (/home/devviking/.vscode-server/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1104:68562)
+	at RegisteredActionRunner.dispose (/home/devviking/.vscode-server/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1104:67229)
+	at ActionRunners.dispose (/home/devviking/.vscode-server/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1104:68002)
+	at /home/devviking/.vscode-server/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1429:14976
+	at Array.forEach (<anonymous>)
+	at Object.dispose (/home/devviking/.vscode-server/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1429:14958)
+	at ai (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+	at file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:119:14992
+	at file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+	at Object.dispose (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+	at zz.eb (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:119:11919)
+	at file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:119:9874
+	at Array.map (<anonymous>)
+	at zz.$ (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:119:9862)
+	at zz.terminate (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:119:10105)
+	at Q3.terminate (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+	at Zi (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+	at Sh.value (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:175:13241)
+	at P.B (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+	at P.fire (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:964)
+	at Vn.fire (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:9457)
+	at Wm.A (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:12573)
+	at Sh.value (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:10993)
+	at P.B (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+	at P.fire (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:964)
+	at s6.acceptChunk (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:7940)
+	at Sh.value (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:7226)
+	at P.B (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+	at P.fire (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:964)
+	at vA.z (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:21944)
+	at vA.acceptFrame (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:21750)
+	at mA.n (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:20278)
+	at file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:17510
+	at Socket.t (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:15451)
+	at Socket.emit (node:events:518:28)
+	at addChunk (node:internal/streams/readable:561:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+	at Readable.push (node:internal/streams/readable:392:5)
+	at TCP.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2025-01-12 21:13:19.739 [error] Canceled: Canceled
+	at new IT (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:153476)
+	at Dy.U (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:158086)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:155580)
+	at cw.g (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+	at cw.executeCommand (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+	at r.registerCommand.description (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+	at cw.h (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+	at cw.g (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+	at cw.executeCommand (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+	at Object.executeCommand (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+	at f (/home/devviking/.vscode-server/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1485:14138)
+	at c (/home/devviking/.vscode-server/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1485:18699)
+	at ActionRunners._updateContextKeys (/home/devviking/.vscode-server/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1104:69975)
+	at s (/home/devviking/.vscode-server/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1104:68419)
+	at RegisteredActionRunner.unregister (/home/devviking/.vscode-server/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1104:68562)
+	at RegisteredActionRunner.dispose (/home/devviking/.vscode-server/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1104:67229)
+	at ActionRunners.dispose (/home/devviking/.vscode-server/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1104:68002)
+	at /home/devviking/.vscode-server/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1429:14976
+	at Array.forEach (<anonymous>)
+	at Object.dispose (/home/devviking/.vscode-server/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1429:14958)
+	at ai (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+	at file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:119:14992
+	at file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+	at Object.dispose (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+	at zz.eb (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:119:11919)
+	at file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:119:9874
+	at Array.map (<anonymous>)
+	at zz.$ (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:119:9862)
+	at zz.terminate (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:119:10105)
+	at Q3.terminate (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+	at Zi (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+	at Sh.value (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:175:13241)
+	at P.B (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+	at P.fire (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:964)
+	at Vn.fire (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:9457)
+	at Wm.A (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:12573)
+	at Sh.value (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:10993)
+	at P.B (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+	at P.fire (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:964)
+	at s6.acceptChunk (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:7940)
+	at Sh.value (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:7226)
+	at P.B (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+	at P.fire (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:30:964)
+	at vA.z (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:21944)
+	at vA.acceptFrame (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:21750)
+	at mA.n (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:20278)
+	at file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:17510
+	at Socket.t (file:///home/devviking/.vscode-server/bin/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/out/vs/workbench/api/node/extensionHostProcess.js:32:15451)
+	at Socket.emit (node:events:518:28)
+	at addChunk (node:internal/streams/readable:561:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+	at Readable.push (node:internal/streams/readable:392:5)
+	at TCP.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2025-01-12 21:13:19.817 [info] Extension host with pid 853 exiting with code 0

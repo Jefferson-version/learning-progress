@@ -1,0 +1,24 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <p id="paragrafo">teste</p>
+    <button type="button" onclick="minhaPrimeiraFuncao()">Clique Aqui!!!!</button>
+    <script>
+            var nome = prompt("digite seu nome")
+            var idade = prompt("digite sea idade")
+            if(idade > 18){
+                alert("voce eh maior de idade")
+            }else{
+                alert("voce nao eh maior de idade")
+            }
+            // alert("o nome delA é: "+nome+" e a idade é: "+idade)
+            function minhaPrimeiraFuncao(){
+                var x  = document.getElementById("paragrafo")
+                x.innerHTML = "outrovalor"
+            }
+        </script>
+  </body>
+
+</html>

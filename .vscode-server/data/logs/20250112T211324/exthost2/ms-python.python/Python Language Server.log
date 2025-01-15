@@ -1,0 +1,17 @@
+2025-01-12 21:19:19.770 [info] [Info  - 9:19:19 PM] (4979) Server root directory: file:///home/devviking/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-12 21:19:19.771 [info] [Info  - 9:19:19 PM] (4979) Pylance language server 2024.12.1 (pyright version 1.1.389, commit ce1325fc) starting
+2025-01-12 21:19:19.778 [info] (Client) Pylance async client (2024.12.1) started with python extension (2024.22.2)
+2025-01-12 21:19:19.778 [info] [Info  - 9:19:19 PM] (4979) Starting service instance "1.PrimeiroPrograma"
+2025-01-12 21:19:19.869 [info] [Info  - 9:19:19 PM] (4979) Setting environmentName for service "1.PrimeiroPrograma": "python"
+2025-01-12 21:19:19.870 [info] [Info  - 9:19:19 PM] (4979) No include entries specified; assuming /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma
+2025-01-12 21:19:19.871 [info] [Info  - 9:19:19 PM] (4979) Auto-excluding **/node_modules
+2025-01-12 21:19:19.871 [info] [Info  - 9:19:19 PM] (4979) Auto-excluding **/__pycache__
+2025-01-12 21:19:19.871 [info] [Info  - 9:19:19 PM] (4979) Auto-excluding **/.*
+2025-01-12 21:19:19.984 [info] [Info  - 9:19:19 PM] (4979) Found 1 source file
+2025-01-12 21:19:20.553 [info] [Info  - 9:19:20 PM] (4979) Background analysis(1) root directory: file:///home/devviking/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-12 21:19:20.558 [info] [Info  - 9:19:20 PM] (4979) Background analysis(1) started
+2025-01-12 21:19:20.675 [info] [Info  - 9:19:20 PM] (4979) Indexer background runner(2) root directory: file:///home/devviking/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2025-01-12 21:19:20.675 [info] [Info  - 9:19:20 PM] (4979) Indexing(2) started
+2025-01-12 21:19:21.397 [info] [Info  - 9:19:21 PM] (4979) scanned(2) 39 files over 1 exec env
+2025-01-12 21:19:22.507 [info] [Info  - 9:19:22 PM] (4979) indexed(2) 39 files over 1 exec env
+2025-01-12 21:19:22.534 [info] [Info  - 9:19:22 PM] (4979) Indexing finished(2).

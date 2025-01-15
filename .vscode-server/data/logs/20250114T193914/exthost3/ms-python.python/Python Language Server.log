@@ -1,0 +1,19 @@
+2025-01-14 19:43:45.935 [info] (Client) Pylance async client (2024.12.1) started with python extension (2024.22.2)
+2025-01-14 19:43:46.137 [info] [Info  - 7:43:46 PM] (30096) Server root directory: file:///home/devviking/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-14 19:43:46.142 [info] [Info  - 7:43:46 PM] (30096) Pylance language server 2024.12.1 (pyright version 1.1.389, commit ce1325fc) starting
+2025-01-14 19:43:46.144 [info] [Info  - 7:43:46 PM] (30096) Starting service instance "Fundamentos"
+2025-01-14 19:43:46.423 [info] [Info  - 7:43:46 PM] (30096) Setting environmentName for service "Fundamentos": "3.10.12 (global)"
+2025-01-14 19:43:46.424 [info] [Info  - 7:43:46 PM] (30096) Setting pythonPath for service "Fundamentos": "/bin/python3"
+2025-01-14 19:43:46.425 [info] [Info  - 7:43:46 PM] (30096) No include entries specified; assuming /home/devviking/Dev-2025/Python-Code/Fundamentos
+2025-01-14 19:43:46.426 [info] [Info  - 7:43:46 PM] (30096) Auto-excluding **/node_modules
+2025-01-14 19:43:46.427 [info] [Info  - 7:43:46 PM] (30096) Auto-excluding **/__pycache__
+2025-01-14 19:43:46.428 [info] [Info  - 7:43:46 PM] (30096) Auto-excluding **/.*
+2025-01-14 19:43:46.428 [info] [Info  - 7:43:46 PM] (30096) Assuming Python version 3.10.12.final.0
+2025-01-14 19:43:46.493 [info] [Info  - 7:43:46 PM] (30096) Found 3 source files
+2025-01-14 19:43:47.079 [info] [Info  - 7:43:47 PM] (30096) Background analysis(1) root directory: file:///home/devviking/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-14 19:43:47.084 [info] [Info  - 7:43:47 PM] (30096) Background analysis(1) started
+2025-01-14 19:43:47.366 [info] [Info  - 7:43:47 PM] (30096) Indexer background runner(2) root directory: file:///home/devviking/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2025-01-14 19:43:47.367 [info] [Info  - 7:43:47 PM] (30096) Indexing(2) started
+2025-01-14 19:43:47.797 [info] [Info  - 7:43:47 PM] (30096) scanned(2) 39 files over 1 exec env
+2025-01-14 19:43:48.045 [info] [Info  - 7:43:48 PM] (30096) indexed(2) 39 files over 1 exec env
+2025-01-14 19:43:48.077 [info] [Info  - 7:43:48 PM] (30096) Indexing finished(2).

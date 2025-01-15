@@ -1,0 +1,175 @@
+2024-12-30 22:18:31.742 [info] 
+
+
+
+
+2024-12-30 22:18:31.753 [info] Extension host agent started.
+2024-12-30 22:18:32.002 [info] [127.0.0.1][1e24caf6][ManagementConnection] New connection established.
+2024-12-30 22:18:32.003 [info] Deleted uninstalled extension from disk vscode-icons-team.vscode-icons /home/devviking/.vscode-server/extensions/vscode-icons-team.vscode-icons-12.6.0
+2024-12-30 22:18:32.004 [info] Deleted uninstalled extension from disk eamodio.gitlens /home/devviking/.vscode-server/extensions/eamodio.gitlens-14.6.1
+2024-12-30 22:18:32.221 [info] [127.0.0.1][30354559][ExtensionHostConnection] New connection established.
+2024-12-30 22:18:33.338 [info] [127.0.0.1][30354559][ExtensionHostConnection] <45210> Launched Extension Host Process.
+2024-12-30 22:18:38.969 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2024-12-30 22:18:38.970 [info] Getting Manifest... dbaeumer.vscode-eslint
+2024-12-30 22:18:38.970 [info] Getting Manifest... eamodio.gitlens
+2024-12-30 22:18:38.970 [info] Getting Manifest... esbenp.prettier-vscode
+2024-12-30 22:18:38.971 [info] Getting Manifest... kisstkondoros.vscode-gutter-preview
+2024-12-30 22:18:38.971 [info] Getting Manifest... ms-python.python
+2024-12-30 22:18:38.971 [info] Getting Manifest... ms-python.vscode-pylance
+2024-12-30 22:18:38.971 [info] Getting Manifest... ms-vsliveshare.vsliveshare
+2024-12-30 22:18:38.971 [info] Getting Manifest... naumovs.color-highlight
+2024-12-30 22:18:38.971 [info] Getting Manifest... pkief.material-icon-theme
+2024-12-30 22:18:38.971 [info] Getting Manifest... prisma.prisma
+2024-12-30 22:18:38.972 [info] Getting Manifest... syler.sass-indented
+2024-12-30 22:18:38.972 [info] Getting Manifest... vscode-icons-team.vscode-icons
+2024-12-30 22:18:38.972 [info] Getting Manifest... wakatime.vscode-wakatime
+2024-12-30 22:18:39.573 [info] Installing extension: dbaeumer.vscode-eslint {"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/devviking/.vscode-server/extensions/extensions.json","external":"file:///home/devviking/.vscode-server/extensions/extensions.json","path":"/home/devviking/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-12-30 22:18:39.576 [info] Installing extension: kisstkondoros.vscode-gutter-preview {"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/devviking/.vscode-server/extensions/extensions.json","external":"file:///home/devviking/.vscode-server/extensions/extensions.json","path":"/home/devviking/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-12-30 22:18:39.593 [info] Installing extension: ms-python.python {"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/devviking/.vscode-server/extensions/extensions.json","external":"file:///home/devviking/.vscode-server/extensions/extensions.json","path":"/home/devviking/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-12-30 22:18:39.595 [info] Installing extension: bradlc.vscode-tailwindcss {"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/devviking/.vscode-server/extensions/extensions.json","external":"file:///home/devviking/.vscode-server/extensions/extensions.json","path":"/home/devviking/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-12-30 22:18:39.602 [info] Installing extension: ms-python.vscode-pylance {"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/devviking/.vscode-server/extensions/extensions.json","external":"file:///home/devviking/.vscode-server/extensions/extensions.json","path":"/home/devviking/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-12-30 22:18:39.604 [info] Installing extension: pkief.material-icon-theme {"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/devviking/.vscode-server/extensions/extensions.json","external":"file:///home/devviking/.vscode-server/extensions/extensions.json","path":"/home/devviking/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-12-30 22:18:39.698 [info] Installing extension: esbenp.prettier-vscode {"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/devviking/.vscode-server/extensions/extensions.json","external":"file:///home/devviking/.vscode-server/extensions/extensions.json","path":"/home/devviking/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-12-30 22:18:39.700 [info] Installing extension: syler.sass-indented {"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/devviking/.vscode-server/extensions/extensions.json","external":"file:///home/devviking/.vscode-server/extensions/extensions.json","path":"/home/devviking/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-12-30 22:18:39.702 [info] Installing extension: prisma.prisma {"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/devviking/.vscode-server/extensions/extensions.json","external":"file:///home/devviking/.vscode-server/extensions/extensions.json","path":"/home/devviking/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-12-30 22:18:39.704 [info] Installing extension: vscode-icons-team.vscode-icons {"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/devviking/.vscode-server/extensions/extensions.json","external":"file:///home/devviking/.vscode-server/extensions/extensions.json","path":"/home/devviking/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-12-30 22:18:39.732 [info] Installing extension: naumovs.color-highlight {"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/devviking/.vscode-server/extensions/extensions.json","external":"file:///home/devviking/.vscode-server/extensions/extensions.json","path":"/home/devviking/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-12-30 22:18:39.733 [info] Installing extension: wakatime.vscode-wakatime {"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/devviking/.vscode-server/extensions/extensions.json","external":"file:///home/devviking/.vscode-server/extensions/extensions.json","path":"/home/devviking/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-12-30 22:18:39.764 [info] Installing extension: ms-vsliveshare.vsliveshare {"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/devviking/.vscode-server/extensions/extensions.json","external":"file:///home/devviking/.vscode-server/extensions/extensions.json","path":"/home/devviking/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-12-30 22:18:39.899 [info] Installing extension: eamodio.gitlens {"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/devviking/.vscode-server/extensions/extensions.json","external":"file:///home/devviking/.vscode-server/extensions/extensions.json","path":"/home/devviking/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-12-30 22:18:41.032 [info] Getting Manifest... ms-python.debugpy
+2024-12-30 22:18:41.191 [info] Getting Manifest... ms-python.python
+2024-12-30 22:18:41.272 [info] Installing extension: ms-python.debugpy {"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64","dependecyOrPackExtensionInstall":true},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/devviking/.vscode-server/extensions/extensions.json","external":"file:///home/devviking/.vscode-server/extensions/extensions.json","path":"/home/devviking/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-12-30 22:18:41.803 [info] Getting Manifest... ms-python.debugpy
+2024-12-30 22:18:41.908 [info] Waiting for already requested installing extension ms-python.debugpy ms-python.vscode-pylance file:///home/devviking/.vscode-server/extensions/extensions.json
+2024-12-30 22:18:44.601 [info] Extension signature verification result for kisstkondoros.vscode-gutter-preview: Success. Executed: true. Duration: 3872ms.
+2024-12-30 22:18:44.690 [info] Extracted extension to file:///home/devviking/.vscode-server/extensions/kisstkondoros.vscode-gutter-preview-0.32.2: kisstkondoros.vscode-gutter-preview
+2024-12-30 22:18:44.709 [info] Renamed to /home/devviking/.vscode-server/extensions/kisstkondoros.vscode-gutter-preview-0.32.2
+2024-12-30 22:18:44.776 [info] Marked extension as uninstalled kisstkondoros.vscode-gutter-preview-0.30.0
+2024-12-30 22:18:44.788 [info] Extension installed successfully: kisstkondoros.vscode-gutter-preview file:///home/devviking/.vscode-server/extensions/extensions.json
+2024-12-30 22:18:44.866 [info] Extension signature verification result for syler.sass-indented: Success. Executed: true. Duration: 3991ms.
+2024-12-30 22:18:45.036 [info] Extension signature verification result for dbaeumer.vscode-eslint: Success. Executed: true. Duration: 4154ms.
+2024-12-30 22:18:45.384 [info] Extension signature verification result for bradlc.vscode-tailwindcss: Success. Executed: true. Duration: 3880ms.
+2024-12-30 22:18:45.389 [info] Extracted extension to file:///home/devviking/.vscode-server/extensions/syler.sass-indented-1.8.31: syler.sass-indented
+2024-12-30 22:18:45.464 [info] Renamed to /home/devviking/.vscode-server/extensions/syler.sass-indented-1.8.31
+2024-12-30 22:18:45.522 [info] Extension signature verification result for naumovs.color-highlight: Success. Executed: true. Duration: 4031ms.
+2024-12-30 22:18:45.598 [info] Extension signature verification result for wakatime.vscode-wakatime: Success. Executed: true. Duration: 4260ms.
+2024-12-30 22:18:45.682 [info] Extracted extension to file:///home/devviking/.vscode-server/extensions/dbaeumer.vscode-eslint-3.0.10: dbaeumer.vscode-eslint
+2024-12-30 22:18:45.684 [info] Extension signature verification result for esbenp.prettier-vscode: Success. Executed: true. Duration: 4031ms.
+2024-12-30 22:18:45.686 [info] Marked extension as uninstalled syler.sass-indented-1.8.28
+2024-12-30 22:18:45.712 [info] Extension signature verification result for prisma.prisma: Success. Executed: true. Duration: 4202ms.
+2024-12-30 22:18:45.722 [info] Extension installed successfully: syler.sass-indented file:///home/devviking/.vscode-server/extensions/extensions.json
+2024-12-30 22:18:45.743 [info] Renamed to /home/devviking/.vscode-server/extensions/dbaeumer.vscode-eslint-3.0.10
+2024-12-30 22:18:45.800 [info] Extension signature verification result for pkief.material-icon-theme: Success. Executed: true. Duration: 4301ms.
+2024-12-30 22:18:45.840 [info] Marked extension as uninstalled dbaeumer.vscode-eslint-2.4.2
+2024-12-30 22:18:45.878 [info] Extension installed successfully: dbaeumer.vscode-eslint file:///home/devviking/.vscode-server/extensions/extensions.json
+2024-12-30 22:18:46.187 [info] Extension signature verification result for eamodio.gitlens: Success. Executed: true. Duration: 4516ms.
+2024-12-30 22:18:46.456 [info] Extracted extension to file:///home/devviking/.vscode-server/extensions/wakatime.vscode-wakatime-25.0.0: wakatime.vscode-wakatime
+2024-12-30 22:18:46.547 [info] Renamed to /home/devviking/.vscode-server/extensions/wakatime.vscode-wakatime-25.0.0
+2024-12-30 22:18:46.666 [info] Extension signature verification result for vscode-icons-team.vscode-icons: Success. Executed: true. Duration: 4215ms.
+2024-12-30 22:18:46.800 [info] Marked extension as uninstalled wakatime.vscode-wakatime-24.4.0
+2024-12-30 22:18:46.907 [info] Extension installed successfully: wakatime.vscode-wakatime file:///home/devviking/.vscode-server/extensions/extensions.json
+2024-12-30 22:18:47.611 [info] Extension signature verification result for ms-python.python: Success. Executed: true. Duration: 4621ms.
+2024-12-30 22:18:47.647 [info] Extracted extension to file:///home/devviking/.vscode-server/extensions/bradlc.vscode-tailwindcss-0.12.17: bradlc.vscode-tailwindcss
+2024-12-30 22:18:47.713 [info] Renamed to /home/devviking/.vscode-server/extensions/bradlc.vscode-tailwindcss-0.12.17
+2024-12-30 22:18:47.930 [info] Marked extension as uninstalled bradlc.vscode-tailwindcss-0.10.5
+2024-12-30 22:18:47.964 [info] Extension installed successfully: bradlc.vscode-tailwindcss file:///home/devviking/.vscode-server/extensions/extensions.json
+2024-12-30 22:18:47.982 [info] Extension signature verification result for ms-python.debugpy: Success. Executed: true. Duration: 5131ms.
+2024-12-30 22:18:48.811 [info] Extracted extension to file:///home/devviking/.vscode-server/extensions/esbenp.prettier-vscode-11.0.0: esbenp.prettier-vscode
+2024-12-30 22:18:48.836 [info] Renamed to /home/devviking/.vscode-server/extensions/esbenp.prettier-vscode-11.0.0
+2024-12-30 22:18:48.966 [info] Marked extension as uninstalled esbenp.prettier-vscode-10.1.0
+2024-12-30 22:18:48.974 [info] Extension installed successfully: esbenp.prettier-vscode file:///home/devviking/.vscode-server/extensions/extensions.json
+2024-12-30 22:18:50.659 [info] Extension signature verification result for ms-vsliveshare.vsliveshare: Success. Executed: true. Duration: 3010ms.
+2024-12-30 22:18:51.657 [info] Extracted extension to file:///home/devviking/.vscode-server/extensions/naumovs.color-highlight-2.8.0: naumovs.color-highlight
+2024-12-30 22:18:51.682 [info] Renamed to /home/devviking/.vscode-server/extensions/naumovs.color-highlight-2.8.0
+2024-12-30 22:18:51.798 [info] Marked extension as uninstalled naumovs.color-highlight-2.5.0
+2024-12-30 22:18:51.819 [info] Extension installed successfully: naumovs.color-highlight file:///home/devviking/.vscode-server/extensions/extensions.json
+2024-12-30 22:18:53.233 [info] Extracted extension to file:///home/devviking/.vscode-server/extensions/eamodio.gitlens-16.1.1: eamodio.gitlens
+2024-12-30 22:18:53.320 [info] Renamed to /home/devviking/.vscode-server/extensions/eamodio.gitlens-16.1.1
+2024-12-30 22:18:53.475 [info] Marked extension as uninstalled eamodio.gitlens-14.7.0
+2024-12-30 22:18:53.487 [info] Extension installed successfully: eamodio.gitlens file:///home/devviking/.vscode-server/extensions/extensions.json
+2024-12-30 22:18:56.058 [info] Extracted extension to file:///home/devviking/.vscode-server/extensions/ms-python.debugpy-2024.14.0-linux-x64: ms-python.debugpy
+2024-12-30 22:18:56.084 [info] Renamed to /home/devviking/.vscode-server/extensions/ms-python.debugpy-2024.14.0-linux-x64
+2024-12-30 22:18:57.282 [info] Extracted extension to file:///home/devviking/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.5941: ms-vsliveshare.vsliveshare
+2024-12-30 22:18:57.297 [info] Renamed to /home/devviking/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.5941
+2024-12-30 22:18:57.434 [info] Marked extension as uninstalled ms-vsliveshare.vsliveshare-1.0.5905
+2024-12-30 22:18:57.444 [info] Extension installed successfully: ms-vsliveshare.vsliveshare file:///home/devviking/.vscode-server/extensions/extensions.json
+2024-12-30 22:18:57.602 [info] Extracted extension to file:///home/devviking/.vscode-server/extensions/pkief.material-icon-theme-5.16.0: pkief.material-icon-theme
+2024-12-30 22:18:57.611 [info] Renamed to /home/devviking/.vscode-server/extensions/pkief.material-icon-theme-5.16.0
+2024-12-30 22:18:57.719 [info] Marked extension as uninstalled pkief.material-icon-theme-4.33.0
+2024-12-30 22:18:57.725 [info] Extension installed successfully: pkief.material-icon-theme file:///home/devviking/.vscode-server/extensions/extensions.json
+2024-12-30 22:18:58.997 [info] Extracted extension to file:///home/devviking/.vscode-server/extensions/prisma.prisma-6.1.0: prisma.prisma
+2024-12-30 22:18:59.009 [info] Renamed to /home/devviking/.vscode-server/extensions/prisma.prisma-6.1.0
+2024-12-30 22:18:59.086 [info] Marked extension as uninstalled prisma.prisma-5.8.0
+2024-12-30 22:18:59.113 [info] Extension installed successfully: prisma.prisma file:///home/devviking/.vscode-server/extensions/extensions.json
+2024-12-30 22:19:00.069 [info] Extracted extension to file:///home/devviking/.vscode-server/extensions/vscode-icons-team.vscode-icons-12.10.0: vscode-icons-team.vscode-icons
+2024-12-30 22:19:00.080 [info] Renamed to /home/devviking/.vscode-server/extensions/vscode-icons-team.vscode-icons-12.10.0
+2024-12-30 22:19:00.160 [info] Marked extension as uninstalled vscode-icons-team.vscode-icons-12.7.0
+2024-12-30 22:19:00.171 [info] Extension installed successfully: vscode-icons-team.vscode-icons file:///home/devviking/.vscode-server/extensions/extensions.json
+2024-12-30 22:19:02.470 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Executed: true. Duration: 4082ms.
+2024-12-30 22:19:02.889 [info] Extracted extension to file:///home/devviking/.vscode-server/extensions/ms-python.python-2024.22.1-linux-x64: ms-python.python
+2024-12-30 22:19:02.907 [info] Renamed to /home/devviking/.vscode-server/extensions/ms-python.python-2024.22.1-linux-x64
+2024-12-30 22:19:03.027 [info] Marked extension as uninstalled ms-python.python-2023.16.0
+2024-12-30 22:19:03.032 [info] Extension installed successfully: ms-python.debugpy file:///home/devviking/.vscode-server/extensions/extensions.json
+2024-12-30 22:19:03.032 [info] Extension installed successfully: ms-python.python file:///home/devviking/.vscode-server/extensions/extensions.json
+2024-12-30 22:19:03.036 [info] Finished waiting for already requested installing extension ms-python.debugpy ms-python.vscode-pylance file:///home/devviking/.vscode-server/extensions/extensions.json
+2024-12-30 22:19:15.814 [info] Extracted extension to file:///home/devviking/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1: ms-python.vscode-pylance
+2024-12-30 22:19:15.830 [info] Renamed to /home/devviking/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1
+2024-12-30 22:19:15.907 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.9.20
+2024-12-30 22:19:15.912 [info] Extension installed successfully: ms-python.vscode-pylance file:///home/devviking/.vscode-server/extensions/extensions.json
+2024-12-31 07:57:57.110 [info] [127.0.0.1][30354559][ExtensionHostConnection] The client has reconnected.
+2024-12-31 07:57:57.482 [info] [127.0.0.1][1e24caf6][ManagementConnection] The client has reconnected.
+2024-12-31 08:16:13.984 [info] [127.0.0.1][1e24caf6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-31 08:16:14.232 [info] [127.0.0.1][30354559][ExtensionHostConnection] <45210> Extension Host Process exited with code: 0, signal: null.
+2024-12-31 08:16:16.937 [info] [127.0.0.1][ec06b239][ManagementConnection] New connection established.
+2024-12-31 08:16:17.010 [info] [127.0.0.1][9be5e6ab][ExtensionHostConnection] New connection established.
+2024-12-31 08:16:17.019 [info] [127.0.0.1][9be5e6ab][ExtensionHostConnection] <60857> Launched Extension Host Process.
+2024-12-31 08:16:43.328 [info] [127.0.0.1][9be5e6ab][ExtensionHostConnection] <60857> [0mGET /favicon.ico [33m404[0m 3.732 ms - 150[0m
+
+2024-12-31 09:37:02.757 [info] [127.0.0.1][9be5e6ab][ExtensionHostConnection] The client has reconnected.
+2024-12-31 09:37:03.147 [info] [127.0.0.1][ec06b239][ManagementConnection] The client has reconnected.
+2024-12-31 10:00:32.219 [info] [127.0.0.1][9be5e6ab][ExtensionHostConnection] <60857> [0mGET /imagens/lupa.png [33m404[0m 3.044 ms - 155[0m
+
+2024-12-31 10:00:34.466 [info] [127.0.0.1][9be5e6ab][ExtensionHostConnection] <60857> [0mGET /imagens/lupa.png [33m404[0m 1.070 ms - 155[0m
+
+2024-12-31 10:00:35.417 [info] [127.0.0.1][9be5e6ab][ExtensionHostConnection] <60857> [0mGET /imagens/lupa.png [33m404[0m 0.995 ms - 155[0m
+
+2024-12-31 10:00:35.627 [info] [127.0.0.1][9be5e6ab][ExtensionHostConnection] <60857> [0mGET /imagens/lupa.png [33m404[0m 0.937 ms - 155[0m
+
+2024-12-31 10:00:35.789 [info] [127.0.0.1][9be5e6ab][ExtensionHostConnection] <60857> [0mGET /imagens/lupa.png [33m404[0m 0.757 ms - 155[0m
+
+2024-12-31 10:00:35.969 [info] [127.0.0.1][9be5e6ab][ExtensionHostConnection] <60857> [0mGET /imagens/lupa.png [33m404[0m 1.275 ms - 155[0m
+
+2024-12-31 10:00:36.168 [info] [127.0.0.1][9be5e6ab][ExtensionHostConnection] <60857> [0mGET /imagens/lupa.png [33m404[0m 1.112 ms - 155[0m
+
+2024-12-31 10:01:31.027 [info] [127.0.0.1][9be5e6ab][ExtensionHostConnection] <60857> [0mGET /src/style.css [33m404[0m 1.085 ms - 152[0m
+
+2024-12-31 10:01:35.727 [info] [127.0.0.1][9be5e6ab][ExtensionHostConnection] <60857> [0mGET /src/s [33m404[0m 4.829 ms - 144[0m
+
+2024-12-31 10:03:59.229 [info] [127.0.0.1][9be5e6ab][ExtensionHostConnection] <60857> [0mGET /src/style.css [33m404[0m 1.230 ms - 152[0m
+
+2024-12-31 10:03:59.253 [info] [127.0.0.1][9be5e6ab][ExtensionHostConnection] <60857> [0mGET /src/style.css [33m404[0m 0.680 ms - 152[0m
+
+2024-12-31 10:16:38.152 [info] [127.0.0.1][9be5e6ab][ExtensionHostConnection] <60857> [0mGET /src/imagens/pexels-pixabay-531767.jp [33m404[0m 3.711 ms - 175[0m
+
+2024-12-31 10:16:39.489 [info] [127.0.0.1][9be5e6ab][ExtensionHostConnection] <60857> [0mGET /src/imagens/pexels-pixabay-531767.j [33m404[0m 2.389 ms - 174[0m
+
+2024-12-31 10:16:40.325 [info] [127.0.0.1][9be5e6ab][ExtensionHostConnection] <60857> [0mGET /src/imagens/pexels-pixabay-531767 [33m404[0m 3.676 ms - 172[0m
+
+2024-12-31 10:16:40.608 [info] [127.0.0.1][9be5e6ab][ExtensionHostConnection] <60857> [0mGET /src/imagens/pexels-pixabay-5317 [33m404[0m 1.862 ms - 170[0m
+
+2024-12-31 10:16:41.408 [info] [127.0.0.1][9be5e6ab][ExtensionHostConnection] <60857> [0mGET /src/imagens/pexels-pixabay- [33m404[0m 2.551 ms - 166[0m
+
+2024-12-31 10:16:41.905 [info] [127.0.0.1][9be5e6ab][ExtensionHostConnection] <60857> [0mGET /src/imagens/pexels-pixaba [33m404[0m 16.439 ms - 164[0m
+
+2024-12-31 11:35:56.540 [info] [127.0.0.1][9be5e6ab][ExtensionHostConnection] The client has reconnected.
+2024-12-31 11:35:57.118 [info] [127.0.0.1][ec06b239][ManagementConnection] The client has reconnected.
+2024-12-31 11:47:23.784 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-12-31 11:47:24.331 [info] [127.0.0.1][9be5e6ab][ExtensionHostConnection] <60857> [0mGET /src/imagens/lupa.png [33m404[0m 2.775 ms - 159[0m
+
+2024-12-31 12:24:52.514 [info] [127.0.0.1][9be5e6ab][ExtensionHostConnection] <60857> [0mGET /src/js/i [33m404[0m 4.151 ms - 147[0m
+
+2024-12-31 16:50:26.043 [info] [127.0.0.1][9be5e6ab][ExtensionHostConnection] The client has reconnected.
+2024-12-31 16:50:26.717 [info] [127.0.0.1][ec06b239][ManagementConnection] The client has reconnected.
+2024-12-31 17:07:41.655 [info] [127.0.0.1][ec06b239][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-31 17:07:43.658 [info] [127.0.0.1][9be5e6ab][ExtensionHostConnection] <60857> Extension Host Process exited with code: 0, signal: null.

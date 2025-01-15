@@ -1,0 +1,124 @@
+2025-01-13 21:32:50.032 [info] [main] Log level: Info
+2025-01-13 21:32:50.032 [info] [main] Validating found git in: "git"
+2025-01-13 21:32:50.032 [info] [main] Using git "2.34.1" from "git"
+2025-01-13 21:32:50.032 [info] [Model][doInitialScan] Initial repository scan started
+2025-01-13 21:32:50.032 [info] > git rev-parse --show-toplevel [21ms]
+2025-01-13 21:32:50.032 [info] > git rev-parse --git-dir --git-common-dir [1067ms]
+2025-01-13 21:32:50.032 [info] [Model][openRepository] Opened repository: /home/devviking/Dev-2025
+2025-01-13 21:32:50.032 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-01-13 21:32:50.050 [info] > git show --textconv HEAD:Python-Code/Fundamentos/1-print.py [33ms]
+2025-01-13 21:32:50.050 [info] > git ls-tree -l HEAD -- /home/devviking/Dev-2025/Python-Code/Fundamentos/1-print.py [28ms]
+2025-01-13 21:32:50.069 [info] > git config --get commit.template [23ms]
+2025-01-13 21:32:50.177 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [99ms]
+2025-01-13 21:32:50.184 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/devviking/Dev-2025/.git/refs/remotes/origin/main'
+2025-01-13 21:32:50.235 [info] > git ls-tree -l HEAD -- /home/devviking/Dev-2025/Python-Code/Fundamentos/1-print.py [34ms]
+2025-01-13 21:32:50.235 [info] > git rev-parse refs/remotes/origin/main [51ms]
+2025-01-13 21:32:50.235 [info] fatal: ambiguous argument 'refs/remotes/origin/main': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+2025-01-13 21:32:50.281 [info] > git status -z -uall [43ms]
+2025-01-13 21:32:50.283 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [41ms]
+2025-01-13 21:32:50.333 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2025-01-13 21:32:50.361 [info] > git config --local branch.main.vscode-merge-base [22ms]
+2025-01-13 21:32:50.361 [warning] [Git][config] git config failed: Failed to execute git
+2025-01-13 21:32:50.365 [info] > git config --get commit.template [37ms]
+2025-01-13 21:32:50.382 [info] > git reflog main --grep-reflog=branch: Created from *. [16ms]
+2025-01-13 21:32:50.424 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [43ms]
+2025-01-13 21:32:50.512 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/devviking/Dev-2025/.git/refs/remotes/origin/main'
+2025-01-13 21:32:50.514 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [129ms]
+2025-01-13 21:32:50.514 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-01-13 21:32:50.514 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2025-01-13 21:32:50.666 [info] > git merge-base refs/heads/main refs/remotes/origin/main [145ms]
+2025-01-13 21:32:50.666 [info] fatal: Not a valid object name refs/remotes/origin/main
+2025-01-13 21:32:50.667 [info] > git rev-parse refs/remotes/origin/main [155ms]
+2025-01-13 21:32:50.667 [info] fatal: ambiguous argument 'refs/remotes/origin/main': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+2025-01-13 21:32:50.954 [info] > git status -z -uall [283ms]
+2025-01-13 21:32:50.954 [info] > git check-ignore -v -z --stdin [273ms]
+2025-01-13 21:32:50.955 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [281ms]
+2025-01-13 21:32:52.193 [info] > git fetch [2184ms]
+2025-01-13 21:32:52.204 [info] > git config --get commit.template [5ms]
+2025-01-13 21:32:52.348 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [138ms]
+2025-01-13 21:32:52.358 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/devviking/Dev-2025/.git/refs/remotes/origin/main'
+2025-01-13 21:32:52.362 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-01-13 21:32:52.362 [info] fatal: ambiguous argument 'refs/remotes/origin/main': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+2025-01-13 21:32:52.373 [info] > git status -z -uall [6ms]
+2025-01-13 21:32:52.374 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-01-13 21:32:56.010 [info] > git show --textconv :Python-Code/Fundamentos/3-input.py [9ms]
+2025-01-13 21:32:56.013 [info] > git ls-files --stage -- /home/devviking/Dev-2025/Python-Code/Fundamentos/3-input.py [5ms]
+2025-01-13 21:32:58.401 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [2ms]
+2025-01-13 21:32:58.401 [info] fatal: bad revision 'refs/remotes/origin/main'
+2025-01-13 21:32:58.402 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["519bb09c65fbe493355dfd07ab988f06b6c58239","refs/remotes/origin/main"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/remotes/origin/main'\n"
+}
+2025-01-13 21:33:22.985 [info] > git add -A -- . [18ms]
+2025-01-13 21:33:23.005 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [13ms]
+2025-01-13 21:33:23.011 [info] > git config --get commit.template [1ms]
+2025-01-13 21:33:23.038 [info] > git config --get commit.template [14ms]
+2025-01-13 21:33:23.045 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-01-13 21:33:23.061 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/devviking/Dev-2025/.git/refs/remotes/origin/main'
+2025-01-13 21:33:23.063 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-01-13 21:33:23.063 [info] fatal: ambiguous argument 'refs/remotes/origin/main': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+2025-01-13 21:33:23.075 [info] > git status -z -uall [7ms]
+2025-01-13 21:33:23.075 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2025-01-13 21:33:23.091 [info] > git merge-base refs/heads/main refs/remotes/origin/main [4ms]
+2025-01-13 21:33:23.091 [info] fatal: Not a valid object name refs/remotes/origin/main
+2025-01-13 21:33:23.156 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [11ms]
+2025-01-13 21:33:23.156 [info] fatal: bad revision 'refs/remotes/origin/main'
+2025-01-13 21:33:23.156 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["ad8ce746174c0d4547bb8f5df43aae1e57cd69a6","refs/remotes/origin/main"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/remotes/origin/main'\n"
+}
+2025-01-13 21:33:23.157 [info] > git config --get commit.template [2ms]
+2025-01-13 21:33:23.163 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-01-13 21:33:23.167 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/devviking/Dev-2025/.git/refs/remotes/origin/main'
+2025-01-13 21:33:23.169 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-01-13 21:33:23.169 [info] fatal: ambiguous argument 'refs/remotes/origin/main': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+2025-01-13 21:33:23.177 [info] > git status -z -uall [5ms]
+2025-01-13 21:33:23.179 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-01-13 21:33:24.225 [info] > git config --get commit.template [12ms]
+2025-01-13 21:33:24.226 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-01-13 21:33:24.233 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/devviking/Dev-2025/.git/refs/remotes/origin/main'
+2025-01-13 21:33:24.234 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-01-13 21:33:24.234 [info] fatal: ambiguous argument 'refs/remotes/origin/main': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+2025-01-13 21:33:24.243 [info] > git status -z -uall [5ms]
+2025-01-13 21:33:24.244 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-01-13 21:33:24.319 [info] > git ls-files --stage -- /home/devviking/Dev-2025/Python-Code/Fundamentos/3-input.py [3ms]
+2025-01-13 21:33:24.329 [info] > git cat-file -s 25e2d6f9f8cab8ec8ea6a6dab1843b35ff5f3925 [3ms]
+2025-01-13 21:33:24.344 [info] > git show --textconv :Python-Code/Fundamentos/3-input.py [2ms]
+2025-01-13 21:33:29.286 [info] > git config --get commit.template [18ms]
+2025-01-13 21:33:29.288 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-01-13 21:33:29.295 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/devviking/Dev-2025/.git/refs/remotes/origin/main'
+2025-01-13 21:33:29.297 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-01-13 21:33:29.297 [info] fatal: ambiguous argument 'refs/remotes/origin/main': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+2025-01-13 21:33:29.308 [info] > git status -z -uall [6ms]
+2025-01-13 21:33:29.309 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-01-14 19:39:03.639 [info] > git ls-files --stage -- /home/devviking/Dev-2025/Python-Code/Fundamentos/3-input.py [3ms]
+2025-01-14 19:39:03.644 [info] > git cat-file -s 25e2d6f9f8cab8ec8ea6a6dab1843b35ff5f3925 [1ms]
+2025-01-14 19:39:03.657 [info] > git show --textconv :Python-Code/Fundamentos/3-input.py [3ms]
+2025-01-14 19:39:04.892 [info] > git fetch [2464ms]
+2025-01-14 19:39:04.926 [info] > git config --get commit.template [17ms]
+2025-01-14 19:39:04.928 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-01-14 19:39:04.937 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/devviking/Dev-2025/.git/refs/remotes/origin/main'
+2025-01-14 19:39:04.939 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-01-14 19:39:04.939 [info] fatal: ambiguous argument 'refs/remotes/origin/main': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+2025-01-14 19:39:04.958 [info] > git status -z -uall [10ms]
+2025-01-14 19:39:04.961 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]

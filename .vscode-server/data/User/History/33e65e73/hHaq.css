@@ -1,0 +1,17 @@
+/* body {
+  color: #fffafa;
+} */
+  h1 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.post-container{
+  width: 70%;
+  height: 100%;
+  margin: 0px auto 0px auto;
+  background-color: rgb(231, 213, 224);
+}
+.post-container .date {
+  font-family:  'roboto', sans-serif;
+  color: #44c7c7; ;
+}

@@ -1,0 +1,22 @@
+2025-01-12 21:13:24.622 [info] 
+
+
+
+
+2025-01-12 21:13:24.651 [info] Extension host agent started.
+2025-01-12 21:13:25.169 [info] [127.0.0.1][016335e3][ManagementConnection] New connection established.
+2025-01-12 21:13:25.172 [info] Deleted uninstalled extension from disk bradlc.vscode-tailwindcss /home/devviking/.vscode-server/extensions/bradlc.vscode-tailwindcss-0.12.17
+2025-01-12 21:13:25.173 [info] Deleted uninstalled extension from disk clinyong.vscode-css-modules /home/devviking/.vscode-server/extensions/clinyong.vscode-css-modules-0.5.1
+2025-01-12 21:13:25.175 [info] Deleted uninstalled extension from disk ms-python.python /home/devviking/.vscode-server/extensions/ms-python.python-2024.22.1-linux-x64
+2025-01-12 21:13:25.179 [info] Deleted uninstalled extension from disk ms-vsliveshare.vsliveshare /home/devviking/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.5941
+2025-01-12 21:13:25.181 [info] Deleted uninstalled extension from disk pkief.material-icon-theme /home/devviking/.vscode-server/extensions/pkief.material-icon-theme-5.16.0
+2025-01-12 21:13:25.183 [info] Deleted uninstalled extension from disk prisma.prisma /home/devviking/.vscode-server/extensions/prisma.prisma-6.1.0
+2025-01-12 21:13:25.867 [info] [127.0.0.1][16fe51b1][ExtensionHostConnection] New connection established.
+2025-01-12 21:13:28.239 [info] [127.0.0.1][16fe51b1][ExtensionHostConnection] <1967> Launched Extension Host Process.
+2025-01-12 21:18:35.800 [info] [127.0.0.1][016335e3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-01-12 21:18:36.035 [info] [127.0.0.1][16fe51b1][ExtensionHostConnection] <1967> Extension Host Process exited with code: 0, signal: null.
+2025-01-12 21:18:38.748 [info] [127.0.0.1][814a5448][ManagementConnection] New connection established.
+2025-01-12 21:18:39.018 [info] [127.0.0.1][d5814c51][ExtensionHostConnection] New connection established.
+2025-01-12 21:18:39.094 [info] [127.0.0.1][d5814c51][ExtensionHostConnection] <4587> Launched Extension Host Process.
+2025-01-12 21:23:17.782 [info] [127.0.0.1][814a5448][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-01-12 21:23:18.014 [info] [127.0.0.1][d5814c51][ExtensionHostConnection] <4587> Extension Host Process exited with code: 0, signal: null.

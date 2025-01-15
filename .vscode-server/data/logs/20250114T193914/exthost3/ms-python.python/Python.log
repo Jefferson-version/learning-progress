@@ -1,0 +1,8 @@
+2025-01-14 19:43:43.416 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-01-14 19:43:43.416 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-01-14 19:43:43.416 [info] Experiment 'pythonTestAdapter' is active
+2025-01-14 19:43:43.417 [warning] Dir "/home/devviking/Dev-2025/Python-Code/Fundamentos/.pixi/envs" is not watchable (directory does not exist)
+2025-01-14 19:43:43.419 [info] Python interpreter path: /bin/python3
+2025-01-14 19:43:44.978 [info] > pyenv which python
+2025-01-14 19:43:44.978 [info] cwd: .
+2025-01-14 19:43:46.165 [info] Starting Pylance language server.

@@ -1,0 +1,16 @@
+body {
+  background-color:eeeeee;
+  font-family: "Red Hat Display", sans-serif;
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  justify-content: center;
+}
+
+.container {
+  background-color: #1f2949;
+  color: aliceblue;
+  max-width: 330px;
+  text-align: center;
+  
+}

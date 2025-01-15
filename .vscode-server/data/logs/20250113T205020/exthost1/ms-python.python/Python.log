@@ -1,0 +1,101 @@
+2025-01-13 20:50:28.267 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-01-13 20:50:28.267 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-01-13 20:50:28.267 [info] Experiment 'pythonTestAdapter' is active
+2025-01-13 20:50:28.267 [warning] Dir "/home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/.pixi/envs" is not watchable (directory does not exist)
+2025-01-13 20:50:28.347 [info] Starting Environment refresh
+2025-01-13 20:50:29.161 [info] > hatch env show --json
+2025-01-13 20:50:29.161 [info] cwd: .
+2025-01-13 20:50:29.165 [info] Python interpreter path: /bin/python3
+2025-01-13 20:50:32.931 [info] Environments refresh finished (event): 4585 milliseconds
+2025-01-13 20:50:32.931 [info] Environments refresh paths discovered: 4585 milliseconds
+2025-01-13 20:50:32.935 [info] Environment refresh took 4590 milliseconds
+2025-01-13 20:50:32.944 [info] > pyenv which python
+2025-01-13 20:50:32.944 [info] cwd: .
+2025-01-13 20:50:34.984 [info] Starting Pylance language server.
+2025-01-13 20:51:03.753 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:51:06.665 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:51:07.503 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:51:08.266 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:51:09.910 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:51:10.692 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:51:11.561 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:51:12.930 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:51:17.813 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:51:19.079 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:51:19.674 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:51:20.025 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:51:20.416 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:51:20.804 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:51:56.139 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:52:00.084 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:52:04.476 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:52:04.840 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:52:06.861 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:52:16.322 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:52:17.361 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:52:17.827 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:52:18.504 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:52:18.892 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:52:19.993 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:52:20.354 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:52:21.523 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:52:22.281 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:52:22.740 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:52:23.568 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:52:23.953 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:52:24.722 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:52:25.695 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:52:28.053 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:52:59.993 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:53:00.934 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:53:15.206 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:53:21.358 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:53:21.801 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:53:23.725 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:53:25.018 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:53:26.944 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:53:27.323 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:53:28.212 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:53:28.698 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:53:29.415 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:53:32.064 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:53:36.305 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:53:37.854 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:53:38.289 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:53:39.589 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:53:40.803 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:53:42.068 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:53:42.746 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:53:46.595 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:53:47.423 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:53:50.624 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:53:54.533 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:53:54.872 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:53:55.684 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:53:56.010 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:53:56.989 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:53:59.373 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:53:59.756 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:54:00.417 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:54:01.491 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:54:11.091 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:54:21.142 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:54:22.165 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:54:22.840 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:54:23.323 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:54:23.771 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:54:24.951 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:54:27.964 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:54:31.079 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:54:31.796 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:54:32.115 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:54:33.646 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:54:34.469 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:54:35.461 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:54:36.153 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:54:36.668 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:54:37.733 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:54:39.663 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:54:40.763 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:54:41.995 [info] Discover tests for workspace name: 1.PrimeiroPrograma - uri: /home/devviking/Dev-2025/Python-Code/1.PrimeiroPrograma/2-tipos.py
+2025-01-13 20:55:51.346 [info] Shell integration status changed, can confirm it's working.

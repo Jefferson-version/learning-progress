@@ -1,0 +1,7 @@
+[user]
+	name = jefferson version
+	email = jeffersonsilva2013.jf@gmail.com
+[core]
+	autocrlf = true
+[init]
+	defaultBranch = main

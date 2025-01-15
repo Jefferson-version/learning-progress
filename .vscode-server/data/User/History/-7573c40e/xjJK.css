@@ -1,0 +1,25 @@
+body {
+  background-color: #2c3e50;
+}
+
+h1 {
+  color: aliceblue;
+}
+
+h3 {
+  color:#f1c40f;
+}
+
+li {
+  color: aliceblue;
+}
+
+div#days-of-week {
+  color: #f1c40f;
+  width: 10px;
+}
+
+
+/* ​#f1c40f -> Amarelo
+#2c3e50 -> Azul
+#e74c3c -> Vermelho */

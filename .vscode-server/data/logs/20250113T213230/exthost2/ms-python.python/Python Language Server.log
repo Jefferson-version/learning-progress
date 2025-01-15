@@ -1,0 +1,32 @@
+2025-01-13 21:32:52.532 [info] (Client) Pylance async client (2024.12.1) started with python extension (2024.22.2)
+2025-01-13 21:32:52.630 [info] [Info  - 9:32:52 PM] (25058) Server root directory: file:///home/devviking/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-13 21:32:52.632 [info] [Info  - 9:32:52 PM] (25058) Pylance language server 2024.12.1 (pyright version 1.1.389, commit ce1325fc) starting
+2025-01-13 21:32:52.642 [info] [Info  - 9:32:52 PM] (25058) Starting service instance "Fundamentos"
+2025-01-13 21:32:52.745 [info] [Info  - 9:32:52 PM] (25058) Setting environmentName for service "Fundamentos": "3.10.12 (global)"
+2025-01-13 21:32:52.745 [info] [Info  - 9:32:52 PM] (25058) Setting pythonPath for service "Fundamentos": "/bin/python3"
+2025-01-13 21:32:52.745 [info] [Info  - 9:32:52 PM] (25058) No include entries specified; assuming /home/devviking/Dev-2025/Python-Code/Fundamentos
+2025-01-13 21:32:52.746 [info] [Info  - 9:32:52 PM] (25058) Auto-excluding **/node_modules
+2025-01-13 21:32:52.746 [info] [Info  - 9:32:52 PM] (25058) Auto-excluding **/__pycache__
+2025-01-13 21:32:52.746 [info] [Info  - 9:32:52 PM] (25058) Auto-excluding **/.*
+2025-01-13 21:32:52.778 [info] [Info  - 9:32:52 PM] (25058) Assuming Python version 3.10.12.final.0
+2025-01-13 21:32:53.001 [info] [Info  - 9:32:53 PM] (25058) Found 3 source files
+2025-01-13 21:32:53.507 [info] [Info  - 9:32:53 PM] (25058) Background analysis(1) root directory: file:///home/devviking/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-13 21:32:53.511 [info] [Info  - 9:32:53 PM] (25058) Background analysis(1) started
+2025-01-13 21:32:53.663 [info] [Info  - 9:32:53 PM] (25058) Indexer background runner(2) root directory: file:///home/devviking/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2025-01-13 21:32:53.663 [info] [Info  - 9:32:53 PM] (25058) Indexing(2) started
+2025-01-13 21:32:54.525 [info] [Info  - 9:32:54 PM] (25058) scanned(2) 39 files over 1 exec env
+2025-01-13 21:32:54.807 [info] [Info  - 9:32:54 PM] (25058) indexed(2) 39 files over 1 exec env
+2025-01-13 21:32:54.829 [info] [Info  - 9:32:54 PM] (25058) Indexing finished(2).
+2025-01-13 21:32:58.465 [info] [Info  - 9:32:58 PM] (25058) Setting environmentName for service "Fundamentos": "3.10.12 (global)"
+2025-01-13 21:32:58.466 [info] [Info  - 9:32:58 PM] (25058) Setting pythonPath for service "Fundamentos": "/bin/python3"
+2025-01-13 21:32:58.466 [info] [Info  - 9:32:58 PM] (25058) No include entries specified; assuming /home/devviking/Dev-2025/Python-Code/Fundamentos
+2025-01-13 21:32:58.466 [info] [Info  - 9:32:58 PM] (25058) Auto-excluding **/node_modules
+2025-01-13 21:32:58.468 [info] [Info  - 9:32:58 PM] (25058) Auto-excluding **/__pycache__
+2025-01-13 21:32:58.469 [info] [Info  - 9:32:58 PM] (25058) Auto-excluding **/.*
+2025-01-13 21:32:58.497 [info] [Info  - 9:32:58 PM] (25058) Assuming Python version 3.10.12.final.0
+2025-01-13 21:32:58.554 [info] [Info  - 9:32:58 PM] (25058) Found 3 source files
+2025-01-13 21:32:59.171 [info] [Info  - 9:32:59 PM] (25058) Indexer background runner(3) root directory: file:///home/devviking/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2025-01-13 21:32:59.172 [info] [Info  - 9:32:59 PM] (25058) Indexing(3) started
+2025-01-13 21:32:59.545 [info] [Info  - 9:32:59 PM] (25058) scanned(3) 39 files over 1 exec env
+2025-01-13 21:32:59.764 [info] [Info  - 9:32:59 PM] (25058) indexed(3) 39 files over 1 exec env
+2025-01-13 21:32:59.791 [info] [Info  - 9:32:59 PM] (25058) Indexing finished(3).

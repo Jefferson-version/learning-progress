@@ -1,0 +1,29 @@
+body {
+  background-color: #2c3e50;
+}
+
+h1 {
+  color: aliceblue;
+}
+
+h3 {
+  color:#f1c40f;
+}
+
+li {
+  color: aliceblue;
+}
+
+h2 {
+  background-color: #f1c40f;
+  border: 2px dashed;
+}
+
+#astronomy-class {
+  color:#e74c3c ;
+}
+
+
+/* ​#f1c40f -> Amarelo
+#2c3e50 -> Azul
+#e74c3c -> Vermelho */

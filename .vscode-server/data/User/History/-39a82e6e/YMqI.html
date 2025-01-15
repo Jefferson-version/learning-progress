@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sobre forms</title>
+  </head>
+  <body>
+    <h3>Cadastro da liga dos astronautas</h3>
+    <form action>
+      <div>
+        <label for="name"><strong>Nome:</strong></label>
+        <input type="text" id="name" name="name">
+      </div>
+      <br>
+      <div>
+        <label for="email"><strong>Email:</strong></label>
+        <input type="email" id="email" name="email">
+        <label for="password"> - <strong>Senha:</strong></label>
+        <input type="password" id="password" name="password">
+      </div>
+      <br>
+      <div>
+        <label for="birthdate"><strong>Data de Nascimento:</strong></label>
+        <input type="date" id="birthdate" name="birthdate">
+        <label for="-foto"><strong> -foto:</strong></label>
+        <input type="file" id="files" name="files" multiple>
+      </div>
+      <br>
+      <div>
+        <label for><strong>nacionalidade</strong></label>
+        <select name="nacionalidade" id="nacionalidade">
+           <option value="Americano">Americano</option>
+            <option value="Russo">Russo</option>
+              <option value="Brasileiro">Brasileiro</option>
+              </select>
+              Genero :
+              <label for="female"> F </label>
+              <input type="radio" name="gender" id="female" value="female">
+              <label for="male"> M </label>
+              <input type="radio" name="gender" id="male" value="male">
+      </div>
+      </div>
+
+    
+      </form>
+
+    </form>
+  </body>
+</html>
